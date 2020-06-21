@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Newt - The real Hero in Aliens 
