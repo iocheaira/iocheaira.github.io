@@ -10,3 +10,9 @@ While Ellen Ripley is put in the front-light as the main story hero, the traumat
 * more brave than some of the adults,
 * trusts Ripley but
 * dies in the end.
+
+## Most famouse Words
+
+As newt said:
+> We'd better get back, 'cause it'll be dark soon, 
+> and they mostly come at night... mostly.
